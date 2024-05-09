@@ -1,0 +1,23 @@
+h1 {
+  color:green;
+  font-size:50px;
+  font-family:Tohama,sans-serif;
+  font-style:italic;
+  background-color:#D3FFCF;
+  text-align:center;
+} 
+  h2{
+   color:red;
+   font-size:100%;
+   font-family:Arial,sans-sefif;
+   font-weight:bold;
+  }
+  p{
+    color:blue;
+    font-family:Verdana, Times, sans-sefif;
+  
+  h4 {
+    color:#004C00;
+    background-color:#AAC7E2;
+    
+  }
